@@ -2,6 +2,7 @@
 
 ![](img/sequencer_1.jpg)
 ![](img/sequencer_2.jpg)
+![](img/sequencer_sch.png)
 
 Pocket Sequencer is a simple, hands‑on 10‑step electronic music toy built from one CD4017 decade counter and three NE555 timers. I first built this as a breadboard project in 4th grade while learning how the 4017 and 555 work. In 2020 I turned that prototype into a PCB using Eagle, and this is the result: a tiny sequencer you can carry in your pocket and play with using the trimmers.
 
